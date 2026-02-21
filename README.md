@@ -29,7 +29,7 @@ Currently focused on AI-powered synthesis and recommendation infrastructure.
 - **[🎬 anime-vault](https://github.com/maverick1985/anime_vault)** — Anime browsing and tracking app · Live: https://anime-vault-seven-chi.vercel.app
 - **[📈 pricewise](https://github.com/maverick1985/pricewise)** — E-commerce price tracking tool · Live: https://pricewise-ruby.vercel.app
 - **[🚘 car-showcase](https://github.com/maverick1985/car_showcase)** — Car listing and showcase app · Live: https://car-showcase-psi-khaki.vercel.app
-- **[🧿 pokedex](https://github.com/maverick1985/pokedex)** — Pokémon encyclopedia built with React
+- **[🧿 pokedex](https://github.com/maverick1985/pokedex)** — Pokémon encyclopedia built with React · Live: https://pokedex-bice.vercel.app/
 - **[🧬 mern-graphql](https://github.com/maverick1985/mern-graphql)** — MERN stack app with GraphQL API
 - **[☁️ mern-deploy-boilerplate-ec2](https://github.com/maverick1985/mern-deploy-boilerplate-ec2)** — MERN deployment setup on AWS EC2
 - **[🗓️ react-reserve](https://github.com/maverick1985/react-reserve)** — React-based reservation system

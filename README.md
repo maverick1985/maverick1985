@@ -15,7 +15,7 @@ Currently focused on AI-powered synthesis and recommendation infrastructure.
 > Building modern, production-ready web apps and developer tooling with a focus on clarity and speed.
 
 ## Current Projects
-- **[TypeClaw](https://github.com/maverick1985/TypeClaw)** — Active project (private) · Live: https://typeclaw-qrfubl3h5-maverick1985s-projects.vercel.app
+- **[TypeClaw](https://github.com/maverick1985/TypeClaw)** — Active project (private) · Live: https://typeclaw.vercel.app/
 
 ## Archived Projects
 - **[EvoSynth](https://github.com/maverick1985/EvoSynth)** — AI-powered synthesis and evolution engine · Live: https://evo-synth.vercel.app

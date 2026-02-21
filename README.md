@@ -1,4 +1,4 @@
-# Hi, I'm Vibin Varghese
+# Hi, I'm Vibin
 
 Full-stack developer building web apps with modern JavaScript, React, and Node.js.
 Currently focused on AI-powered synthesis and recommendation infrastructure.

@@ -25,6 +25,18 @@ Currently focused on AI-powered synthesis and recommendation infrastructure.
 - **[⏱️ my-countdown-app](https://github.com/maverick1985/my-countdown-app)** — Customizable countdown timer app
 - **[✅ to-do-app](https://github.com/maverick1985/to-do-app)** — Clean and minimal task management app
 
+## Live Links
+- **my-countdown-app** — https://my-countdown-app-xi.vercel.app
+- **finwise-landing-page-main** — https://finwise-landing-page-main.vercel.app
+- **fullstack-template** — https://fullstack-template-lovat.vercel.app
+- **car-showcase-r3mw** — https://car-showcase-psi-khaki.vercel.app
+- **anime-vault-it7w** — https://anime-vault-seven-chi.vercel.app
+- **pricewise-qyv6** — https://pricewise-ruby.vercel.app
+- **employee-log** — https://employee-log.vercel.app
+- **qr-code-generator** — https://qr-code-generator-peach-ten.vercel.app
+- **evo-synth** — https://evo-synth-maverick1985s-projects.vercel.app
+- **recinfra** — https://recinfra.vercel.app
+
 ## Archive
 - **[🎬 anime-vault](https://github.com/maverick1985/anime_vault)** — Anime browsing and tracking app
 - **[📈 pricewise](https://github.com/maverick1985/pricewise)** — E-commerce price tracking tool

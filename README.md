@@ -1,6 +1,7 @@
 # Hi, I'm Vibin
 
 Full-stack developer building web apps with modern JavaScript, React, and Node.js.
+Currently focused on AI-powered synthesis and recommendation infrastructure.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)

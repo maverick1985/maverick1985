@@ -15,32 +15,20 @@ Currently focused on AI-powered synthesis and recommendation infrastructure.
 > Building modern, production-ready web apps and developer tooling with a focus on clarity and speed.
 
 ## Current Projects
-- **[🧠 EvoSynth](https://github.com/maverick1985/EvoSynth)** — AI-powered synthesis and evolution engine
-- **[🏗️ recinfra](https://github.com/maverick1985/recinfra)** — Recommendation infrastructure platform
-- **[🧾 employee-log](https://github.com/maverick1985/employee-log)** — Employee activity and logging system
-- **[🧰 fullstack-template](https://github.com/maverick1985/fullstack-template)** — Full-stack starter template with modern tooling
+- **[🧠 EvoSynth](https://github.com/maverick1985/EvoSynth)** — AI-powered synthesis and evolution engine · Live: https://evo-synth-maverick1985s-projects.vercel.app
+- **[🏗️ recinfra](https://github.com/maverick1985/recinfra)** — Recommendation infrastructure platform · Live: https://recinfra.vercel.app
+- **[🧾 employee-log](https://github.com/maverick1985/employee-log)** — Employee activity and logging system · Live: https://employee-log.vercel.app
+- **[🧰 fullstack-template](https://github.com/maverick1985/fullstack-template)** — Full-stack starter template with modern tooling · Live: https://fullstack-template-lovat.vercel.app
 - **[⚡ nextjs-prisma-template](https://github.com/maverick1985/nextjs-prisma-template)** — Next.js + Prisma boilerplate for rapid development
-- **[💸 finwise-landing-page](https://github.com/maverick1985/finwise-landing-page-main)** — Landing page for a personal finance web app
-- **[🧩 qr-code-generator](https://github.com/maverick1985/qr-code-generator)** — QR code generation tool
-- **[⏱️ my-countdown-app](https://github.com/maverick1985/my-countdown-app)** — Customizable countdown timer app
+- **[💸 finwise-landing-page](https://github.com/maverick1985/finwise-landing-page-main)** — Landing page for a personal finance web app · Live: https://finwise-landing-page-main.vercel.app
+- **[🧩 qr-code-generator](https://github.com/maverick1985/qr-code-generator)** — QR code generation tool · Live: https://qr-code-generator-peach-ten.vercel.app
+- **[⏱️ my-countdown-app](https://github.com/maverick1985/my-countdown-app)** — Customizable countdown timer app · Live: https://my-countdown-app-xi.vercel.app
 - **[✅ to-do-app](https://github.com/maverick1985/to-do-app)** — Clean and minimal task management app
 
-## Live Links
-- **my-countdown-app** — https://my-countdown-app-xi.vercel.app
-- **finwise-landing-page-main** — https://finwise-landing-page-main.vercel.app
-- **fullstack-template** — https://fullstack-template-lovat.vercel.app
-- **car-showcase-r3mw** — https://car-showcase-psi-khaki.vercel.app
-- **anime-vault-it7w** — https://anime-vault-seven-chi.vercel.app
-- **pricewise-qyv6** — https://pricewise-ruby.vercel.app
-- **employee-log** — https://employee-log.vercel.app
-- **qr-code-generator** — https://qr-code-generator-peach-ten.vercel.app
-- **evo-synth** — https://evo-synth-maverick1985s-projects.vercel.app
-- **recinfra** — https://recinfra.vercel.app
-
 ## Archive
-- **[🎬 anime-vault](https://github.com/maverick1985/anime_vault)** — Anime browsing and tracking app
-- **[📈 pricewise](https://github.com/maverick1985/pricewise)** — E-commerce price tracking tool
-- **[🚘 car-showcase](https://github.com/maverick1985/car_showcase)** — Car listing and showcase app
+- **[🎬 anime-vault](https://github.com/maverick1985/anime_vault)** — Anime browsing and tracking app · Live: https://anime-vault-seven-chi.vercel.app
+- **[📈 pricewise](https://github.com/maverick1985/pricewise)** — E-commerce price tracking tool · Live: https://pricewise-ruby.vercel.app
+- **[🚘 car-showcase](https://github.com/maverick1985/car_showcase)** — Car listing and showcase app · Live: https://car-showcase-psi-khaki.vercel.app
 - **[🧿 pokedex](https://github.com/maverick1985/pokedex)** — Pokémon encyclopedia built with React
 - **[🧬 mern-graphql](https://github.com/maverick1985/mern-graphql)** — MERN stack app with GraphQL API
 - **[☁️ mern-deploy-boilerplate-ec2](https://github.com/maverick1985/mern-deploy-boilerplate-ec2)** — MERN deployment setup on AWS EC2

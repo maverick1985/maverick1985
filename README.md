@@ -33,11 +33,11 @@ Currently focused on AI-powered synthesis and recommendation infrastructure.
 - **[pokedex](https://github.com/maverick1985/pokedex)** — Pokémon encyclopedia built with React · Live: https://pokedex-bice.vercel.app
 - **[mern-graphql](https://github.com/maverick1985/mern-graphql)** — MERN stack app with GraphQL API
 - **[mern-deploy-boilerplate-ec2](https://github.com/maverick1985/mern-deploy-boilerplate-ec2)** — MERN deployment setup on AWS EC2
-- **[react-reserve](https://github.com/maverick1985/react-reserve)** — React-based reservation system · Live: https://react-reserve-git-main.maverick1985.vercel.app
+- **[react-reserve](https://github.com/maverick1985/react-reserve)** — React-based reservation system
 - **[design-UI](https://github.com/maverick1985/design-UI)** — UI component design experiments
-- **[Canucks](https://github.com/maverick1985/Canucks)** — Archived project · Live: https://canucks.maverick1985.vercel.app
-- **[next-crash-course](https://github.com/maverick1985/next-crash-course)** — Archived project · Live: https://next-crash-course.maverick1985.vercel.app
-- **[nextWithStyled](https://github.com/maverick1985/nextWithStyled)** — Archived project · Live: https://next-with-styled-git-main.maverick1985.vercel.app
-- **[react-website-styled-components-v1-master](https://github.com/maverick1985/react-website-styled-components-v1-master)** — Archived project · Live: https://react-website-styled-components-v1-master-git-master.maverick1985.vercel.app
+- **[Canucks](https://github.com/maverick1985/Canucks)** — Archived project
+- **[next-crash-course](https://github.com/maverick1985/next-crash-course)** — Archived project
+- **[nextWithStyled](https://github.com/maverick1985/nextWithStyled)** — Archived project
+- **[react-website-styled-components-v1-master](https://github.com/maverick1985/react-website-styled-components-v1-master)** — Archived project 
 - **[boilerplate](https://github.com/maverick1985/boilerplate)** — Archived project
 - **[node-app-deploy](https://github.com/maverick1985/node-app-deploy)** — Archived project
